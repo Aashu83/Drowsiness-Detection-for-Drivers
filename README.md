@@ -1,4 +1,4 @@
-# 🚗 Driver Drowsiness Detection System
+# Driver Drowsiness Detection System
 
 A real-time driver drowsiness detection system built using the MERN stack, OpenCV, and Socket.IO.
 
