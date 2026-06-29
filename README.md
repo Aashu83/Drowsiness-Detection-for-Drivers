@@ -4,6 +4,8 @@ A real-time driver drowsiness detection system built using the MERN stack, OpenC
 
 The application detects driver fatigue using facial landmarks and Eye Aspect Ratio (EAR), sends live alerts to the frontend, and stores alert history in MongoDB.
 
+Extensible to Embedded domain with microcontrollers like esp 32 and arduino
+
 ---
 
 ## Features
